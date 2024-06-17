@@ -1,6 +1,6 @@
 {
   "name": "vue2-json-skeleton-loader",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "scripts": {
     "serve": "cd demo && vue-cli-service serve",
     "build": "vue-cli-service build ./src/index.js --target lib"
