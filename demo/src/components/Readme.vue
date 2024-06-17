@@ -6,13 +6,13 @@
     </div>
     <div class="codeBorder">
       <div class="codePadding">
-        <code>npm i <span>vue2-skeleton-loader</span></code>
+        <code>npm i <span>vue2-json-skeleton-loader</span></code>
       </div>
     </div>
     <div class="codeBorder">
       <div class="codePadding">
         <code>import <span>VSkeletonLoader</span> from
-<span>'vue2-skeleton-loader'</span>
+<span>'vue2-json-skeleton-loader'</span>
 <br />
 <span>Vue.use</span>(<span>VSkeletonLoader</span>)</code>
       </div>
