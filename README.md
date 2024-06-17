@@ -1,19 +1,19 @@
 <img width="100%" src="demo/src/assets/logo.png">
 
-[![Deploy](https://github.com/medistream-team/vue2-skeleton-loader/actions/workflows/deploy-demo.yml/badge.svg?branch=main)](https://github.com/medistream-team/vue2-skeleton-loader/actions/workflows/deploy-demo.yml) [![Npm Publish](https://github.com/medistream-team/vue2-skeleton-loader/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/medistream-team/vue2-skeleton-loader/actions/workflows/npm-publish.yml)
+[![Deploy](https://github.com/medistream-team/vue2-json-skeleton-loader/actions/workflows/deploy-demo.yml/badge.svg?branch=main)](https://github.com/medistream-team/vue2-json-skeleton-loader/actions/workflows/deploy-demo.yml) [![Npm Publish](https://github.com/medistream-team/vue2-json-skeleton-loader/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/medistream-team/vue2-json-skeleton-loader/actions/workflows/npm-publish.yml)
 
 ## [DEMO](https://medistream-team.github.io/v-skeleton-loader)
 
 ## Installation
 
 <pre>
-<code>npm i vue2-skeleton-loader</code>
+<code>npm i vue2-json-skeleton-loader</code>
 </pre>
 
 ## Plugin
 
 <pre>
-<code>import VSkeletonLoader from 'vue2-skeleton-loader';
+<code>import VSkeletonLoader from 'vue2-json-skeleton-loader';
 
 Vue.use(VSkeletonLoader);</code>
 </pre>
@@ -30,7 +30,7 @@ You can implement multiple types of skeleton loaders simultaneously using conten
 </template>
 
 <script>
-import VSkeletonLoader from 'vue2-skeleton-loader';
+import VSkeletonLoader from 'vue2-json-skeleton-loader';
 export default {
   components: {
     VSkeletonLoader
@@ -50,7 +50,7 @@ export default {
 </template>
 
 <script>
-import VSkeletonLoader from 'vue2-skeleton-loader';
+import VSkeletonLoader from 'vue2-json-skeleton-loader';
 export default {
   components: {
     VSkeletonLoader
@@ -93,4 +93,4 @@ Options allow you to implement different styles of Skeleton Loaders.
 ## 📝 License
 
 Copyright © 2024. Built by INTEGRATION Corp.<br>
-This project is distributed under [MIT](https://github.com/medistream-team/vue2-skeleton-loader/blob/main/LICENSE) license.
+This project is distributed under [MIT](https://github.com/medistream-team/vue2-json-skeleton-loader/blob/main/LICENSE) license.
